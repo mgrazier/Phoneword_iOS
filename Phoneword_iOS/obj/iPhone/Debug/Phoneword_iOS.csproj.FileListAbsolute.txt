@@ -1,0 +1,9 @@
+E:\Dev\Mobile\Phoneword_iOS\Phoneword_iOS\bin\iPhone\Debug\Phoneword_iOS.exe
+E:\Dev\Mobile\Phoneword_iOS\Phoneword_iOS\bin\iPhone\Debug\Phoneword_iOS.pdb
+E:\Dev\Mobile\Phoneword_iOS\Phoneword_iOS\obj\iPhone\Debug\ibtool\MainStoryboard.storyboardc\Info.plist
+E:\Dev\Mobile\Phoneword_iOS\Phoneword_iOS\obj\iPhone\Debug\ibtool\MainStoryboard.storyboardc\UIViewController-vXZ-lx-hvc.nib
+E:\Dev\Mobile\Phoneword_iOS\Phoneword_iOS\obj\iPhone\Debug\ibtool\MainStoryboard.storyboardc\vXZ-lx-hvc-view-kh9-bI-dsS.nib
+E:\Dev\Mobile\Phoneword_iOS\Phoneword_iOS\obj\iPhone\Debug\Default-568h@2x.png
+E:\Dev\Mobile\Phoneword_iOS\Phoneword_iOS\obj\iPhone\Debug\Phoneword_iOS.csprojResolveAssemblyReference.cache
+E:\Dev\Mobile\Phoneword_iOS\Phoneword_iOS\obj\iPhone\Debug\Phoneword_iOS.exe
+E:\Dev\Mobile\Phoneword_iOS\Phoneword_iOS\obj\iPhone\Debug\Phoneword_iOS.pdb
